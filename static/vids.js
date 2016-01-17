@@ -9,6 +9,7 @@ function GopherTVController($scope, $window, $http, $log) {
 
         $scope.tags = $scope.getList('tags');
         $scope.speakers = $scope.getList('speakers');
+        $scope.languages = $scope.getList('language');
     });
 
 
@@ -93,6 +94,10 @@ function GopherTVController($scope, $window, $http, $log) {
 
     $scope.playSpeaker = function(what) {
         $scope.playSomething(what, 'speakers');
+    };
+
+    $scope.playLanguage = function(what) {
+        $scope.playSomething(what, 'language');
     };
 
     $scope.recentTalks = function() {

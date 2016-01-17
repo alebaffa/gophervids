@@ -5,7 +5,8 @@
    "id": "9OhXqBlCmrM",
    "speakers": ["sandro-mancuso"],
    "tags": ["talk"],
-   "title": "Sandro Mancuso. Software Crasftsmanship"
+   "title": "Sandro Mancuso. Software Crasftsmanship",
+   "language": ["english"]
 },
 {
    "date": "2014-01-15",
@@ -13,6 +14,7 @@
    "id": "9OhXqBlCmrM",
    "speakers": ["alessandro-baffa"],
    "tags": ["talk"],
-   "title": "Alessandro Baffa. This is a test"
+   "title": "Alessandro Baffa. This is a test",
+   "language": ["italian"]
 }
 ]
