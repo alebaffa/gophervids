@@ -29,9 +29,9 @@ func init() {
 
 	feed := &feeds.Feed{
 		Title:       "gophervids",
-		Link:        &feeds.Link{Href: "http://gophervids.appspot.com"},
-		Description: "categorized golang videos",
-		Author:      &feeds.Author{"Damian Gryski", "damian@gryski.com"},
+		Link:        &feeds.Link{Href: "http://softwarecraftsmanshipvids.appspot.com"},
+		Description: "categorized videos about Software Craftsmanship",
+		Author:      &feeds.Author{"Alessandro Baffa", "alessandro.baffa@gmail.com"},
 	}
 
 	for _, v := range vids {
