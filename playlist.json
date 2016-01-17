@@ -1,0 +1,337 @@
+
+{
+   "date": "2015-03-05",
+   "added": "2016-01-17",
+   "id": "oM-MfeflUZ8",
+   "speakers": [],
+   "tags": [],
+   "title": "Lightning Talks - Go Devroom FOSDEM 2015"
+},
+{
+   "date": "2015-03-04",
+   "added": "2016-01-17",
+   "id": "9WcWmLPg7xM",
+   "speakers": [],
+   "tags": [],
+   "title": "Gopher Meetup March 2015"
+},
+{
+   "date": "2014-12-02",
+   "added": "2016-01-17",
+   "id": "OVnLDIWTerA",
+   "speakers": [],
+   "tags": [],
+   "title": "Gopher Meetup November 2014"
+},
+{
+   "date": "2014-12-03",
+   "added": "2016-01-17",
+   "id": "E5DaBCN6oo8",
+   "speakers": [],
+   "tags": [],
+   "title": "Gopher Meetup December 2014"
+},
+{
+   "date": "2015-04-23",
+   "added": "2016-01-17",
+   "id": "k6L4OJhxMnY",
+   "speakers": [],
+   "tags": [],
+   "title": "Go-Miami drone event"
+},
+{
+   "date": "2015-06-02",
+   "added": "2016-01-17",
+   "id": "hg4o3kHTN5k",
+   "speakers": [],
+   "tags": [],
+   "title": "April 2015 Docker & Core OS"
+},
+{
+   "date": "2015-06-01",
+   "added": "2016-01-17",
+   "id": "Gar4iGUs7Cc",
+   "speakers": [],
+   "tags": [],
+   "title": "May 2015 Lightning Talks Brian Merrell"
+},
+{
+   "date": "2015-06-01",
+   "added": "2016-01-17",
+   "id": "dvf88tU2y-c",
+   "speakers": [],
+   "tags": [],
+   "title": "May 2015 Lightning Talks Ulises Flynn"
+},
+{
+   "date": "2015-06-01",
+   "added": "2016-01-17",
+   "id": "Gsxt-TN0Xt8",
+   "speakers": [],
+   "tags": [],
+   "title": "May 2015 Lightning Talks Derek Perkins"
+},
+{
+   "date": "2015-06-01",
+   "added": "2016-01-17",
+   "id": "TIw832RfB3U",
+   "speakers": [],
+   "tags": [],
+   "title": "May 2015 Lightning Talks Ian Schenck"
+},
+{
+   "date": "2015-06-01",
+   "added": "2016-01-17",
+   "id": "9VbDE_kPgA4",
+   "speakers": [],
+   "tags": [],
+   "title": "May 2015 Lightning Talks Matt Holt"
+},
+{
+   "date": "2015-06-01",
+   "added": "2016-01-17",
+   "id": "5YYN4owetis",
+   "speakers": [],
+   "tags": [],
+   "title": "May 2015 Lightning Talks Jared Howard"
+},
+{
+   "date": "2015-06-01",
+   "added": "2016-01-17",
+   "id": "W5h-Zoj7iQg",
+   "speakers": [],
+   "tags": [],
+   "title": "May 2015 Lightning Talks Michael Whatcott"
+},
+{
+   "date": "2015-07-27",
+   "added": "2016-01-17",
+   "id": "mRHqNrCRWug",
+   "speakers": [],
+   "tags": [],
+   "title": "ChicagoLang - June 2015 - Machine Learning"
+},
+{
+   "date": "2015-08-11",
+   "added": "2016-01-17",
+   "id": "cMYhGNofHA4",
+   "speakers": [],
+   "tags": [],
+   "title": "DevNation 2015 - Vincent Batts - Golang: The good, the bad, & the ugly"
+},
+{
+   "date": "2015-08-27",
+   "added": "2016-01-17",
+   "id": "A38xX-eJTxQ",
+   "speakers": [],
+   "tags": [],
+   "title": "Battle Harden your APIs with Go-Fuzz Aug 27, 2015"
+},
+{
+   "date": "2015-10-22",
+   "added": "2016-01-17",
+   "id": "4L0Ak3y8lws",
+   "speakers": [],
+   "tags": [],
+   "title": "Golang meeting"
+},
+{
+   "date": "2015-11-17",
+   "added": "2016-01-17",
+   "id": "gk4OabD3FUE",
+   "speakers": [],
+   "tags": [],
+   "title": "The \"Modern\" Garbage Collector by Verónica López"
+},
+{
+   "date": "2015-11-20",
+   "added": "2016-01-17",
+   "id": "MGF1MjgnoSI",
+   "speakers": [],
+   "tags": [],
+   "title": "Simplifying Scalable Cloud Application Development with Go - Mandy Waite"
+},
+{
+   "date": "2015-11-24",
+   "added": "2016-01-17",
+   "id": "3SnMrYtlMwE",
+   "speakers": [],
+   "tags": [],
+   "title": "GothamGo 2015: Go Can Make You Better at Your Job, If You Let It by Brendan O'Brien"
+},
+{
+   "date": "2015-11-24",
+   "added": "2016-01-17",
+   "id": "6l62RYyeLp8",
+   "speakers": [],
+   "tags": [],
+   "title": "GothamGo 2015: Boring is Beautiful by Kyle Erf"
+},
+{
+   "date": "2015-11-24",
+   "added": "2016-01-17",
+   "id": "87cCPJ4OK7E",
+   "speakers": [],
+   "tags": [],
+   "title": "GothamGo 2015: Go Highlights from the New InfluxDB Storage Engine by Paul Dix"
+},
+{
+   "date": "2015-11-24",
+   "added": "2016-01-17",
+   "id": "_nsTT0Mvkv4",
+   "speakers": [],
+   "tags": [],
+   "title": "GothamGo 2015: What’s new in Go Crypto? by Nick Sullivan"
+},
+{
+   "date": "2015-11-24",
+   "added": "2016-01-17",
+   "id": "-H_Dyx2sct8",
+   "speakers": [],
+   "tags": [],
+   "title": "GothamGo 2015: Chaos Monkey on my Laptop by Matthew Campbell"
+},
+{
+   "date": "2015-12-01",
+   "added": "2016-01-17",
+   "id": "TI8OW22WZvQ",
+   "speakers": [],
+   "tags": [],
+   "title": "dotGo 2015 - Matt Aimonetti - Applied concurrency in Go"
+},
+{
+   "date": "2015-12-01",
+   "added": "2016-01-17",
+   "id": "OynPw4aOlV0",
+   "speakers": [],
+   "tags": [],
+   "title": "dotGo 2015 - Marty Schoch - A Tour of the Bleve"
+},
+{
+   "date": "2015-11-30",
+   "added": "2016-01-17",
+   "id": "j55aWjgzfV8",
+   "speakers": [],
+   "tags": [],
+   "title": "dotGo 2015 - Jessica Frazelle - The Docker Trail"
+},
+{
+   "date": "2015-11-27",
+   "added": "2016-01-17",
+   "id": "nuDO1oQxARs",
+   "speakers": [],
+   "tags": [],
+   "title": "dotGo 2015 - Anthony Starks - The Other Side of Go Programming Pictures"
+},
+{
+   "date": "2015-11-27",
+   "added": "2016-01-17",
+   "id": "wqN-l4OrMP4",
+   "speakers": [],
+   "tags": [],
+   "title": "dotGo 2015 - Fatih Arslan - Tools for working with Go Code"
+},
+{
+   "date": "2015-12-01",
+   "added": "2016-01-17",
+   "id": "rHf9p3C2L2A",
+   "speakers": [],
+   "tags": [],
+   "title": "Using Go Channels - Natik Shah - Gopherfest - November 18, 2015"
+},
+{
+   "date": "2015-12-01",
+   "added": "2016-01-17",
+   "id": "JOx9enktnUM",
+   "speakers": [],
+   "tags": [],
+   "title": "Go at Dropbox - Zviad Metreveli - Gopherfest - November 18, 2015"
+},
+{
+   "date": "2015-12-01",
+   "added": "2016-01-17",
+   "id": "15QUkEWwPBI",
+   "speakers": [],
+   "tags": [],
+   "title": "backplane.io - Blake Mizerany - Gopherfest - November 18, 2015"
+},
+{
+   "date": "2015-12-01",
+   "added": "2016-01-17",
+   "id": "PAAkCSZUG1c",
+   "speakers": [],
+   "tags": [],
+   "title": "Go Proverbs - Rob Pike - Gopherfest - November 18, 2015"
+},
+{
+   "date": "2015-12-09",
+   "added": "2016-01-17",
+   "id": "QWJKDdZKZQQ",
+   "speakers": [],
+   "tags": [],
+   "title": "VDAY2015 - Golang as the dream of Devops Engineers - Gulyás Máté @ enbrite.ly"
+},
+{
+   "date": "2015-12-17",
+   "added": "2016-01-17",
+   "id": "-ij2OiDTxz0",
+   "speakers": [],
+   "tags": [],
+   "title": "[RocksDB meetup] Spencer Kimball, CockroachDB – CockroachDB’s MVCC model"
+},
+{
+   "date": "2015-12-04",
+   "added": "2016-01-17",
+   "id": "OtfyLtsrmCA",
+   "speakers": [],
+   "tags": [],
+   "title": "Gopher it - Gautam Rege, Co-Founder & Managing Director of Josh Software"
+},
+{
+   "date": "2015-12-15",
+   "added": "2016-01-17",
+   "id": "UXwq39HEof0",
+   "speakers": [],
+   "tags": [],
+   "title": "KubeCon \"Go, Build it on a Cluster\" by Evan Brown"
+},
+{
+   "date": "2015-12-25",
+   "added": "2016-01-17",
+   "id": "J_CGqiQx04c",
+   "speakers": [],
+   "tags": [],
+   "title": "Using RabbitMQ in Go"
+},
+{
+   "date": "2015-12-31",
+   "added": "2016-01-17",
+   "id": "_M9zvtAoN9Y",
+   "speakers": [],
+   "tags": [],
+   "title": "YOW! 2015 - Matt Heath - Building Microservice Architectures in Go"
+},
+{
+   "date": "2016-01-08",
+   "added": "2016-01-17",
+   "id": "QDO6pcoIsc0",
+   "speakers": [],
+   "tags": [],
+   "title": "North Austin Go Meetup"
+},
+{
+   "date": "2016-01-08",
+   "added": "2016-01-17",
+   "id": "3IHJ6gJHITw",
+   "speakers": [],
+   "tags": [],
+   "title": "Exploring HTTP/2 with Go"
+},
+{
+   "date": "2016-01-12",
+   "added": "2016-01-17",
+   "id": "jjV1v3t1ick",
+   "speakers": [],
+   "tags": [],
+   "title": "Whispered Secrets • Eleanor McHugh"
+},
